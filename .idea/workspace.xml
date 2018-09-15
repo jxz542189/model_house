@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d9ca98-e065-4631-a3d4-0d0d73ee7855" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chatbot/seq2seq/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatbot/seq2seq/seq2seq_chatbot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM/RBM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM/bbrbm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM/gbrbm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM_V2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM_V2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM_V2/model_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender_system/RBM_V2/rbm_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentence_pair_model/abcnn/ABCNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentence_pair_model/abcnn/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentimentAnalysis/aspect_level/RAM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentimentAnalysis/aspect_level/RAM/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentimentAnalysis/aspect_level/absa/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentimentAnalysis/aspect_level/absa/absa_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similarity/MPCNN/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similarity/MPCNN/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similarity/MPCNN/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorboard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorboard/data_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorboard/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_category/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,52 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/similarity/MPCNN/README.md">
+        <entry file="file://$PROJECT_DIR$/project_category/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="1" column="81" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ABCNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sentence_pair_model/abcnn/ABCNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="212" selection-start-line="212" selection-end-line="212" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorboard/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data_download.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorboard/data_download.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorboard/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -129,14 +76,16 @@
         <option value="$PROJECT_DIR$/tensorboard/README.md" />
         <option value="$PROJECT_DIR$/tensorboard/data_download.py" />
         <option value="$PROJECT_DIR$/tensorboard/main.py" />
+        <option value="$PROJECT_DIR$/tensorboard/main_copy.py" />
+        <option value="$PROJECT_DIR$/project_category/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="67" />
-    <option name="width" value="973" />
-    <option name="height" value="1013" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="902" />
+    <option name="y" value="24" />
+    <option name="width" value="895" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,6 +105,11 @@
             <path>
               <item name="model_house" type="b2602c69:ProjectViewProjectNode" />
               <item name="model_house" type="462c0819:PsiDirectoryNode" />
+              <item name="project_category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="model_house" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model_house" type="462c0819:PsiDirectoryNode" />
               <item name="tensorboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -166,7 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorBoard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../textsum" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,19 +148,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="67" width="973" height="1013" extended-state="0" />
+    <frame x="65" y="43" width="1855" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19473684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10098253" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,21 +172,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43847874" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19473684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -250,27 +204,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sentence_pair_model/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sentence_pair_model/SSE/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sentimentAnalysis/aspect_level/IAN/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sentimentAnalysis/aspect_level/IAN/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -584,18 +517,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sentence_pair_model/abcnn/ABCNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="5088">
           <caret line="212" selection-start-line="212" selection-end-line="212" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorboard/README.md">
+    <entry file="file://$PROJECT_DIR$/tensorboard/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        <state relative-caret-position="216">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -603,16 +533,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorboard/main.py">
+    <entry file="file://$PROJECT_DIR$/tensorboard/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+        <state relative-caret-position="24">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorboard/main_copy.py" />
+    <entry file="file://$PROJECT_DIR$/project_category/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
