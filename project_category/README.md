@@ -164,6 +164,8 @@
 #### 时间包裹
 + [Timer_wrapper] https://github.com/AndriyLazorenko/Timer_wrapper_python
 #### cython编译Python函数
++ [cython_c_extension] https://github.com/aphearin/cython_c_extension_example
++ [cython_tutorial] https://github.com/adrn/cython-tutorial
 + [statically] https://github.com/AlanCristhian/statically
 #### skearn转为PMML
 + [sklearn2pmml] https://github.com/jpmml/sklearn2pmml
@@ -192,6 +194,8 @@
 #### 复现论文集合
 + [DeepLearn] https://github.com/uber/horovod
 + [attn2d] https://github.com/elbayadm/attn2d
++ [SWEM] https://github.com/dinghanshen/SWEM https://arxiv.org/abs/1805.09843
++ [var-attn] https://github.com/harvardnlp/var-attn https://arxiv.org/abs/1807.03756
 #### 跨深度学习平台
 + [MMdnn] https://github.com/Microsoft/MMdnn
 #### 深度学习项目模板
@@ -212,6 +216,7 @@
 #### 其他编码转为utf8
 + [convert2utf] https://github.com/x1angli/convert2utf
 #### 统计模型
++ [pomegranate] https://github.com/jmschrei/pomegranate
 + [statsmodels] https://github.com/statsmodels/statsmodels
 #### 画图工具
 + [networkx] https://github.com/networkx/networkx
@@ -225,7 +230,5 @@
 #### 自动keras
 + [autokeras] https://github.com/jhfjhfj1/autokeras
 #### 无法归类
-+ [SWEM] https://github.com/dinghanshen/SWEM https://arxiv.org/abs/1805.09843
-+ [var-attn] https://github.com/harvardnlp/var-attn https://arxiv.org/abs/1807.03756
 + [书籍下载] https://github.com/KeKe-Li/book
 + [Top-Deep-Learning] https://github.com/mbadry1/Top-Deep-Learning
