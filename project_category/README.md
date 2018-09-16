@@ -19,6 +19,7 @@
 #### 机器推理
 + [mac-network] https://github.com/stanfordnlp/mac-network
 #### 语义匹配
++ [BiMPM] https://github.com/jxz542189/BiMPM
 + [MatchZoo] https://github.com/faneshion/MatchZoo
 + [SeqMatchSeq] https://github.com/shuohangwang/SeqMatchSeq
 + [SPM_toolkit] https://github.com/ChenglongChen/SPM_toolkit
@@ -122,6 +123,7 @@
 + [DEC-Keras] https://github.com/fferroni/DEC-Keras
 + [mediods] https://github.com/alexprengere/medoids
 #### 自注意力
++ [BiBloSA] https://github.com/jxz542189/BiBloSA
 + [DiSAN] https://github.com/taoshen58/DiSAN
 #### 强化学习
 + [baselines] https://github.com/openai/baselines
@@ -133,6 +135,8 @@
 #### Tensorflow例子
 + [100-Days-Of-ML-Code] https://github.com/Avik-Jain/100-Days-Of-ML-Code
 + [Tensorflow-examples] https://github.com/aymericdamien/TensorFlow-Examples
+#### 数据库
++ [pymysql] https://github.com/jxz542189/pymysql-connpool
 #### 数据结构和算法
 + [Introduction_to_Algorithms] https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms
 + [algorithms_and_data_structures] https://github.com/mandliya/algorithms_and_data_structures
@@ -195,6 +199,7 @@
 #### 代码开发过程工具
 + [yapf] https://github.com/google/yapf
 + [isort] https://github.com/timothycrosley/isort
++ [flake8] https://github.com/PyCQA/flake8
 + [coveragepy] https://github.com/nedbat/coveragepy
 + [pytest] https://github.com/pytest-dev/pytest
 #### 过程和系统检测
