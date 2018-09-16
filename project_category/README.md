@@ -114,7 +114,7 @@
 + [Aspect-level-sentiment] https://github.com/ruidan/Aspect-level-sentiment
 + [MemNet4Sentiment] https://github.com/abhimanu/MemNet4Sentiment
 + [IAN] https://github.com/lpq29743/IAN
-#### minhash, lsh
+#### 局部敏感hash
 + [datasketch] https://github.com/ekzhu/datasketch
 #### 情感分析
 + [CharLSTM] https://github.com/charlesashby/CharLSTM
