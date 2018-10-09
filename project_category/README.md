@@ -18,6 +18,8 @@
 + [MultiRC] https://github.com/CogComp/multirc
 #### 机器推理
 + [mac-network] https://github.com/stanfordnlp/mac-network
+#### 语义理解
++ [MultiNLI] https://github.com/nyu-mll/multiNLI
 #### 语义匹配
 + [BiMPM] https://github.com/jxz542189/BiMPM
 + [MatchZoo] https://github.com/faneshion/MatchZoo
@@ -32,8 +34,6 @@
 + [corex_topic] https://github.com/gregversteeg/corex_topic
 + [GuidedLDA] https://github.com/vi3k6i5/GuidedLDA
 + [bnpy] https://github.com/birlrobotics/bnpy
-#### 语义理解
-+ [MultiNLI] https://github.com/nyu-mll/multiNLI
 #### 问答系统
 + [IRN] https://github.com/zmtkeke/IRN
 + [kbqa] https://github.com/quyingqi/kbqa-ar-smcnn
@@ -45,6 +45,8 @@
 #### 语义解析
 + [sling] https://github.com/google/sling
 #### 自然语言处理库
++ [natural_language_processing] https://github.com/murlisingh/Natural_Language_Processing
++ [allennlp] https://github.com/allenai/allennlp
 + [finch] https://github.com/zhedongzheng/finch
 + [nlp_architect] https://github.com/NervanaSystems/nlp-architect
 + [PyTorch_NLP] https://github.com/PetrochukM/PyTorch-NLP
@@ -66,6 +68,7 @@
 + [OpenNRE] https://github.com/thunlp/OpenNRE
 + [CausalityEventExraction] https://github.com/liuhuanyong/CausalityEventExtraction
 #### 聊天机器人
++ [awesome-chatbot] https://github.com/BUPT/awesome-chatbot
 + [hred] https://github.com/hsgodhia/hred
 + [attention-hred] https://github.com/TusharNimbhorkar/attention-hred
 + [DeepPavlov] https://github.com/deepmipt/DeepPavlov
@@ -77,6 +80,16 @@
 + [just_another_seq2seq] https://github.com/qhduan/just_another_seq2seq
 + [ConversationalRobotDesign] https://github.com/qhduan/ConversationalRobotDesign
 #### 推荐算法
++ [CollaborativeMemoryNetwork] https://github.com/tebesu/CollaborativeMemoryNetwork
++ [RppleNet] https://github.com/hwwang55/RippleNet
++ [citepmatic] https://github.com/allenai/citeomatic
++ [MPCN] https://github.com/vanzytay/KDD2018_MPCN
++ [ATRank] https://github.com/jinze1994/ATRank
++ [Deep_Matrix_Factorization_Models] https://github.com/RuidongZ/Deep_Matrix_Factorization_Models
++ [LightGBM] https://github.com/Microsoft/LightGBM
++ [Autorec] https://github.com/gtshs2/Autorec
++ [autosvdpp] https://github.com/cheungdaven/autosvdpp
++ [metricfactorization] https://github.com/cheungdaven/metricfactorization
 + [DKN] https://github.com/hwwang55/DKN
 + [tensorflow-DeepFM] https://github.com/ChenglongChen/tensorflow-DeepFM
 + [Surprise] https://github.com/NicolasHug/Surprise
@@ -87,7 +100,13 @@
 + [mrec] https://github.com/Mendeley/mrec
 + [tensorrec] https://github.com/jfkirk/tensorrec
 + [crab] https://github.com/muricoca/crab
++ [awesome-RecSys-papers] https://github.com/YuyangZhangFTD/awesome-RecSys-papers
++ [tensorflow_pratice] https://github.com/princewen/tensorflow_practice
++ [Recurrent_Recommender_Networks] https://github.com/RuidongZ/Recurrent_Recommender_Networks
++ [Probabilistic_Matrix_Factorization] https://github.com/fuhailin/Probabilistic-Matrix-Factorization
 + [论文集合] https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+#### 广告点击率
++ [DeepCTR] https://github.com/shenweichen/DeepCTR
 #### 关键字抽取
 + [flashtext] https://github.com/vi3k6i5/flashtext
 + [keyphrase-extraction] https://github.com/swisscom/ai-research-keyphrase-extraction
@@ -103,6 +122,9 @@
 + [TextRank4ZH] https://github.com/letiantian/TextRank4ZH
 + [sumy] https://github.com/miso-belica/sumy
 #### 命名实体识别
++ [LD_Net] https://github.com/LiyuanLucasLiu/LD-Net
++ [neural_sequence_labeling] https://github.com/IsaacChanghau/neural_sequence_labeling
++ [ChineseNER] https://github.com/buppt/ChineseNER
 + [NER] https://github.com/ZhixiuYe/NER-pytorch
 + [HSCRF] https://github.com/ZhixiuYe/HSCRF-pytorch
 + [NCRFpp] https://github.com/jiesutd/NCRFpp
@@ -114,6 +136,8 @@
 + [Aspect-level-sentiment] https://github.com/ruidan/Aspect-level-sentiment
 + [MemNet4Sentiment] https://github.com/abhimanu/MemNet4Sentiment
 + [IAN] https://github.com/lpq29743/IAN
+#### 词向量
++ [skip_thought_tf] https://github.com/persiyanov/skip-thought-tf
 #### 局部敏感hash
 + [datasketch] https://github.com/ekzhu/datasketch
 #### 情感分析
@@ -126,6 +150,7 @@
 + [BiBloSA] https://github.com/jxz542189/BiBloSA
 + [DiSAN] https://github.com/taoshen58/DiSAN
 #### 强化学习
++ [gym] https://github.com/openai/gym
 + [baselines] https://github.com/openai/baselines
 + [vae_cf] https://github.com/dawenl/vae_cf
 + [dopamine] https://github.com/google/dopamine
@@ -138,6 +163,7 @@
 #### 数据库
 + [pymysql] https://github.com/jxz542189/pymysql-connpool
 #### 数据结构和算法
++ [leetCode] https://github.com/HuberTRoy/leetCode
 + [Introduction_to_Algorithms] https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms
 + [algorithms_and_data_structures] https://github.com/mandliya/algorithms_and_data_structures
 + [CodingInterviews] https://github.com/gatieme/CodingInterviews
@@ -155,6 +181,7 @@
 + [qrnn] https://github.com/salesforce/pytorch-qrnn
 + [nlstm] https://github.com/hannw/nlstm
 #### 语言模型工具
++ [FoolNLTK] https://github.com/rockyzhengwu/FoolNLTK
 + [kenlm] https://github.com/kpu/kenlm
 #### 内存监测
 + [memory_profile] https://github.com/pythonprofilers/memory_profiler
@@ -178,6 +205,8 @@
 #### 机器学习生命周期开放平台和算法部署
 + [mlflow] https://github.com/mlflow/mlflow
 + [graphpipe] https://github.com/oracle/graphpipe
+#### Tensorflow封装库
++ [sonnet] https://github.com/deepmind/sonnet
 #### Tensorflow模型分析工具
 + [model-analysis] https://github.com/tensorflow/model-analysis
 #### 贝叶斯
@@ -185,6 +214,11 @@
 + [BayesianOptimization] https://github.com/fmfn/BayesianOptimization
 #### 自动梯度
 + [autograd] https://github.com/HIPS/autograd
+#### docker
++ [docker_cmpose_demo] https://github.com/vegasbrianc/docker-compose-demo
++ [docker_practice] https://github.com/yeasy/docker_practice
+#### numpy优化工具包
++ [numba] https://github.com/numba/numba
 #### 时间转化
 + [Time_NLP] https://github.com/zhanzecheng/Time_NLP
 + [fleming] https://github.com/ambitioninc/fleming
@@ -216,6 +250,7 @@
 #### 其他编码转为utf8
 + [convert2utf] https://github.com/x1angli/convert2utf
 #### 统计模型
++ [probability] https://github.com/tensorflow/probability
 + [pomegranate] https://github.com/jmschrei/pomegranate
 + [statsmodels] https://github.com/statsmodels/statsmodels
 #### 画图工具
