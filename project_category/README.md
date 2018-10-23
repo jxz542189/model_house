@@ -176,6 +176,9 @@
 + [pathos] https://github.com/uqfoundation/pathos
 + [multiprocess] https://github.com/uqfoundation/multiprocess
 + [blackbox] https://github.com/paulknysh/blackbox
+#### 优秀博客
++ https://www.jianshu.com/u/c5df9e229a67
++ http://www.cnblogs.com/pinard/
 #### LSTM变种
 + [srnn] https://github.com/zepingyu0512/srnn
 + [qrnn] https://github.com/salesforce/pytorch-qrnn
