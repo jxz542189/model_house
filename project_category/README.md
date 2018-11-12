@@ -6,6 +6,7 @@
 + [fasttext] https://github.com/facebookresearch/fastText
 + [capsule_text] https://github.com/andyweizhao/capsule_text_classification
 #### 多标签分类
++ [SU4MLC] https://github.com/lancopku/SU4MLC
 + [LDA_thesis] https://github.com/KenHBS/LDA_thesis
 + [C2AE-Multilabel-Classification] https://github.com/dhruvramani/C2AE-Multilabel-Classification
 + [magpie] https://github.com/inspirehep/magpie
@@ -13,6 +14,7 @@
 + [SGM] https://github.com/lancopku/SGM
 + [scikit-multilearn] https://github.com/scikit-multilearn/scikit-multilearn
 #### 阅读理解
++ [RCPapers] https://github.com/thunlp/RCPapers
 + [QANet] https://github.com/NLPLearn/QANet
 + [R-Net] https://github.com/HKUST-KnowComp/R-Net
 + [MultiRC] https://github.com/CogComp/multirc
@@ -44,7 +46,10 @@
 + [learning2ASK_TypedDecoder] https://github.com/victorywys/Learning2Ask_TypedDecoder
 #### 语义解析
 + [sling] https://github.com/google/sling
+#### 句子对匹配
++ [atec-nlp] https://github.com/Lapis-Hong/atec-nlp孪生神经网络
 #### 自然语言处理库
++ [DataScienceCodes] https://github.com/stasi009/DataScienceCodes
 + [natural_language_processing] https://github.com/murlisingh/Natural_Language_Processing
 + [allennlp] https://github.com/allenai/allennlp
 + [finch] https://github.com/zhedongzheng/finch
@@ -58,6 +63,7 @@
 #### 文本生成
 + [Texar] https://github.com/asyml/texar
 #### 关系抽取
++ [foolnltk] https://github.com/rockyzhengwu/FoolNLTK
 + [PCNN] https://github.com/pencoa/PCNN
 + [triplets-extraction] https://github.com/zsctju/triplets-extraction
 + [Information-Extraction-Chinese] https://github.com/crownpku/Information-Extraction-Chinese
@@ -68,6 +74,7 @@
 + [OpenNRE] https://github.com/thunlp/OpenNRE
 + [CausalityEventExraction] https://github.com/liuhuanyong/CausalityEventExtraction
 #### 聊天机器人
++ [multiwoz] https://github.com/budzianowski/multiwoz
 + [awesome-chatbot] https://github.com/BUPT/awesome-chatbot
 + [hred] https://github.com/hsgodhia/hred
 + [attention-hred] https://github.com/TusharNimbhorkar/attention-hred
@@ -106,7 +113,13 @@
 + [Probabilistic_Matrix_Factorization] https://github.com/fuhailin/Probabilistic-Matrix-Factorization
 + [论文集合] https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 #### 广告点击率
++ [ad-reading] https://github.com/jyfeather/ad-reading
++ [dnn_ctr] https://github.com/nzc/dnn_ctr
++ [tensorflow_practice] https://github.com/princewen/tensorflow_practice
++ [wide_deep] https://github.com/Lapis-Hong/wide_deep
 + [DeepCTR] https://github.com/shenweichen/DeepCTR
++ [DeepInterestNetwork] https://github.com/zhougr1993/DeepInterestNetwork
++ [self-attentive-ncf] https://github.com/wubinzzu/self-attentive-ncf
 #### 关键字抽取
 + [flashtext] https://github.com/vi3k6i5/flashtext
 + [keyphrase-extraction] https://github.com/swisscom/ai-research-keyphrase-extraction
@@ -137,6 +150,9 @@
 + [MemNet4Sentiment] https://github.com/abhimanu/MemNet4Sentiment
 + [IAN] https://github.com/lpq29743/IAN
 #### 词向量
++ [word2vec] https://github.com/tmikolov/word2vec
++ [finetune-transformer-lm] https://github.com/openai/finetune-transformer-lm
++ [bert] https://github.com/google-research/bert
 + [skip_thought_tf] https://github.com/persiyanov/skip-thought-tf
 #### 局部敏感hash
 + [datasketch] https://github.com/ekzhu/datasketch
@@ -158,8 +174,13 @@
 + [DeepRL] https://github.com/ShangtongZhang/DeepRL
 + [reinforcement-learning-an-introduction] https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 #### Tensorflow例子
++ [model/research] https://github.com/tensorflow/models/tree/master/research
 + [100-Days-Of-ML-Code] https://github.com/Avik-Jain/100-Days-Of-ML-Code
 + [Tensorflow-examples] https://github.com/aymericdamien/TensorFlow-Examples
+#### Tensorflow serving
++ [tensorflow-serving-tutorial] https://github.com/gyang274/tensorflow-serving-tutorial
++ [tensorflow-serving-example] https://github.com/yu-iskw/tensorflow-serving-example
++ [serving] https://github.com/tensorflow/serving
 #### 数据库
 + [pymysql] https://github.com/jxz542189/pymysql-connpool
 #### 数据结构和算法
@@ -203,6 +224,11 @@
 + [skorch] https://github.com/dnouri/skorch
 #### 神经网络超参数优调
 + [nni] https://github.com/Microsoft/nni
+#### 神经网络梯度优化
++ [swa] https://github.com/timgaripov/swa
+#### 神经网络模型集成
++ [dnn-mode-connectivity] https://github.com/timgaripov/dnn-mode-connectivity
++ [snapshot_ensembles] https://github.com/arthurdouillard/keras-snapshot_ensembles
 #### 神经网络库
 + [sonnet] https://github.com/deepmind/sonnet
 #### 机器学习生命周期开放平台和算法部署
@@ -264,9 +290,11 @@
 #### 异常点检测
 + [Pyod] https://github.com/yzhao062/Pyod
 #### 时间序列
++ [RNN-Active-User-Forecast] https://github.com/drop-out/RNN-Active-User-Forecast
 + [pyflux] https://github.com/RJT1990/pyflux
 #### 自动keras
 + [autokeras] https://github.com/jhfjhfj1/autokeras
 #### 无法归类
++ [DeepLearning-500-questions] https://github.com/scutan90/DeepLearning-500-questions
 + [书籍下载] https://github.com/KeKe-Li/book
 + [Top-Deep-Learning] https://github.com/mbadry1/Top-Deep-Learning
