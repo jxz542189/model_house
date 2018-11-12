@@ -49,7 +49,7 @@
 #### 句子对匹配
 + [atec-nlp] https://github.com/Lapis-Hong/atec-nlp孪生神经网络
 #### 自然语言处理库
-+ [DataScienceCodes] https://github.com/stasi009/DataScienceCodes
++ [DataScienceCodes] https://github.com/stasi009/DataScienceCodes   tf_serving实例代码  tensorflow多机分布式训练代码
 + [natural_language_processing] https://github.com/murlisingh/Natural_Language_Processing
 + [allennlp] https://github.com/allenai/allennlp
 + [finch] https://github.com/zhedongzheng/finch
@@ -174,7 +174,7 @@
 + [DeepRL] https://github.com/ShangtongZhang/DeepRL
 + [reinforcement-learning-an-introduction] https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 #### Tensorflow例子
-+ [model/research] https://github.com/tensorflow/models/tree/master/research
++ [model/research] https://github.com/tensorflow/models/tree/master/research 多GPU实例代码
 + [100-Days-Of-ML-Code] https://github.com/Avik-Jain/100-Days-Of-ML-Code
 + [Tensorflow-examples] https://github.com/aymericdamien/TensorFlow-Examples
 #### Tensorflow serving
