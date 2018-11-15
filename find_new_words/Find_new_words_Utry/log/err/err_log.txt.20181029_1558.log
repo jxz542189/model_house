@@ -1,0 +1,16 @@
+[2018-11-13 11:32:59,410][140090870805160][index.py][line: 73][ERROR] ## 获取新词发生异常find_new_wordnot enough values to unpack (expected 4, got 2)
+[2018-11-13 11:32:59,411][140090870805160][index.py][line: 74][ERROR] ## (<class 'ValueError'>, ValueError('not enough values to unpack (expected 4, got 2)',), <traceback object at 0x7f697a9822c8>)
+Traceback (most recent call last):
+  File "/home/nlp/qianyan/Find_new_words_Utry/index.py", line 54, in find_new_word
+    r, PMI_min, PMI_max = dfs.get_new_word_string(file, stopwordID, dicwordID, dataID, text, N, PMI)
+  File "/home/nlp/qianyan/Find_new_words_Utry/demo_file_server.py", line 43, in get_new_word_string
+    result, add_word, PMI_min, PMI_max = root.wordFind(N)
+ValueError: not enough values to unpack (expected 4, got 2)
+[2018-11-13 11:46:09,523][140090870805160][index.py][line: 73][ERROR] ## 获取新词发生异常find_new_wordnot enough values to unpack (expected 4, got 2)
+[2018-11-13 11:46:09,524][140090870805160][index.py][line: 74][ERROR] ## (<class 'ValueError'>, ValueError('not enough values to unpack (expected 4, got 2)',), <traceback object at 0x7f697b775a48>)
+Traceback (most recent call last):
+  File "/home/nlp/qianyan/Find_new_words_Utry/index.py", line 54, in find_new_word
+    r, PMI_min, PMI_max = dfs.get_new_word_string(file, stopwordID, dicwordID, dataID, text, N, PMI)
+  File "/home/nlp/qianyan/Find_new_words_Utry/demo_file_server.py", line 43, in get_new_word_string
+    result, add_word, PMI_min, PMI_max = root.wordFind(N)
+ValueError: not enough values to unpack (expected 4, got 2)

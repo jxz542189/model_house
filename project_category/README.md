@@ -198,6 +198,7 @@
 + [multiprocess] https://github.com/uqfoundation/multiprocess
 + [blackbox] https://github.com/paulknysh/blackbox
 #### 优秀博客
++ https://alanlee.fun/   datasets和estimator
 + https://www.jianshu.com/u/c5df9e229a67
 + http://www.cnblogs.com/pinard/
 #### LSTM变种

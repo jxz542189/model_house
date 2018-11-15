@@ -1,0 +1,6 @@
+[2018-10-29 15:20:44,562][139965046145552][index.py][line: 73][ERROR] ## 获取新词发生异常find_new_word'NoneType' object has no attribute 'get_api_ticket'
+[2018-10-29 15:20:44,563][139965046145552][index.py][line: 74][ERROR] ## (<class 'AttributeError'>, AttributeError("'NoneType' object has no attribute 'get_api_ticket'",), <traceback object at 0x7f4c26b33788>)
+Traceback (most recent call last):
+  File "/home/nlp/qianyan/Find_new_words_Utry/index.py", line 27, in find_new_word
+    r = file.get_api_ticket()
+AttributeError: 'NoneType' object has no attribute 'get_api_ticket'

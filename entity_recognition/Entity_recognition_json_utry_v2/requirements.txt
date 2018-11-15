@@ -1,0 +1,10 @@
+six
+pandas
+numpy
+requests
+foolnltk
+flask
+tornado
+gunicorn
+gevent
+
