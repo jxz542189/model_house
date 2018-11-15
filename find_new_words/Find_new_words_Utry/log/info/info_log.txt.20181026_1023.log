@@ -1,7 +1,0 @@
-[2018-10-26 10:19:41,439][139729973397248][data_read_file_server.py][line: 43][DEBUG] ## stopword停用词大小：1713
-[2018-10-26 10:19:41,452][139729973397248][data_read_file_server.py][line: 63][DEBUG] ## 自定义词大小：1
-[2018-10-26 10:19:41,733][139729973397248][data_read_file_server.py][line: 180][DEBUG] ## -----> 开始加载字典树
-[2018-10-26 10:23:23,013][140648912070400][data_read_file_server.py][line: 43][DEBUG] ## stopword停用词大小：1713
-[2018-10-26 10:23:23,024][140648912070400][data_read_file_server.py][line: 63][DEBUG] ## 自定义词大小：1
-[2018-10-26 10:23:23,300][140648912070400][data_read_file_server.py][line: 180][DEBUG] ## -----> 开始加载字典树
-[2018-10-26 10:23:23,300][140648912070400][data_read_file_server.py][line: 144][DEBUG] ## -----> 开始读取外部词频
