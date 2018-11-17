@@ -1,0 +1,223 @@
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f7243167748>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 0 into results/model/model.ckpt.
+loss = 6.582751, step = 1
+Saving checkpoints for 12 into results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2018-11-14-13:15:29
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2018-11-14-13:15:30
+Saving dict for global step 12: acc = 0.94736844, f1 = 0.9, global_step = 12, loss = 1.4693363, precision = 0.9, recall = 0.9
+Saving 'checkpoint_path' summary for global step 12: results/model/model.ckpt-12
+Loss for final step: 1.711983.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7fc32fe66668>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f87da6fd5f8>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 12 into results/model/model.ckpt.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f2e82ae85c0>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-12
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 12 into results/model/model.ckpt.
+loss = 1.5934896, step = 13
+Saving checkpoints for 24 into results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2018-11-15-01:39:55
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2018-11-15-01:39:56
+Saving dict for global step 24: acc = 0.94736844, f1 = 0.9, global_step = 24, loss = 0.590633, precision = 0.9, recall = 0.9
+Saving 'checkpoint_path' summary for global step 24: results/model/model.ckpt-24
+Loss for final step: 0.352211.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f9ad4b26668>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 24 into results/model/model.ckpt.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f87642a6668>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 24 into results/model/model.ckpt.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f5368326668>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 24 into results/model/model.ckpt.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7fd6500266a0>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-24
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 24 into results/model/model.ckpt.
+loss = 0.6530778, step = 25
+Saving checkpoints for 36 into results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2018-11-15-01:44:25
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-36
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2018-11-15-01:44:26
+Saving dict for global step 36: acc = 0.9736842, f1 = 0.95, global_step = 36, loss = 0.31301817, precision = 0.95, recall = 0.95
+Saving 'checkpoint_path' summary for global step 36: results/model/model.ckpt-36
+Loss for final step: 0.3462204.
+Calling model_fn.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f94f78e56a0>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-36
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 36 into results/model/model.ckpt.
+loss = 0.354247, step = 37
+Saving checkpoints for 48 into results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2018-11-15-01:45:59
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-48
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2018-11-15-01:46:00
+Saving dict for global step 48: acc = 1.0, f1 = 1.0, global_step = 48, loss = 0.111316256, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 48: results/model/model.ckpt-48
+Loss for final step: 0.21647644.
+Calling model_fn.
+Using config: {'_model_dir': 'results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7ff57e73f5c0>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+Calling model_fn.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-48
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 48 into results/model/model.ckpt.
+loss = 0.11501551, step = 49
+Saving checkpoints for 60 into results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2018-11-15-01:47:34
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-60
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2018-11-15-01:47:35
+Saving dict for global step 60: acc = 1.0, f1 = 1.0, global_step = 60, loss = 0.032854717, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 60: results/model/model.ckpt-60
+Loss for final step: 0.029650498.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-60
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-60
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-60
+Running local_init_op.
+Done running local_init_op.

@@ -1,0 +1,16 @@
+{
+    "batch_size": 20,
+    "buffer": 15000,
+    "chars": "../../data/example/vocab.chars.txt",
+    "dim": 300,
+    "dim_chars": 100,
+    "dropout": 0.5,
+    "epochs": 25,
+    "filters": 50,
+    "glove": "../../data/example/glove.npz",
+    "kernel_size": 3,
+    "lstm_size": 100,
+    "num_oov_buckets": 1,
+    "tags": "../../data/example/vocab.tags.txt",
+    "words": "../../data/example/vocab.words.txt"
+}

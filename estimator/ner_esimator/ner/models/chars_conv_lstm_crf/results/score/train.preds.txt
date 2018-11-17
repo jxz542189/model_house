@@ -1,0 +1,47 @@
+Yoann B-PER B-PER
+lives O O
+in O O
+New B-LOC B-LOC
+York I-LOC I-LOC
+
+Raph B-PER B-PER
+lives O O
+in O O
+London B-LOC B-LOC
+
+Marie B-PER B-PER
+lives O O
+in O O
+Paris B-LOC B-LOC
+
+Dominik B-PER B-PER
+lives O O
+in O O
+Berlin B-LOC B-LOC
+
+Raul B-PER B-PER
+lives O O
+in O O
+Mexico B-LOC B-LOC
+
+Laure B-PER B-PER
+lives O O
+in O O
+Milan B-LOC B-LOC
+
+Alexandr B-PER B-PER
+lives O O
+in O O
+Moscow B-LOC B-LOC
+
+Ines B-PER B-PER
+lives O O
+in O O
+Casablanca B-LOC B-LOC
+
+Clovis B-PER B-PER
+lives O O
+in O O
+San B-LOC B-LOC
+Francisco I-LOC I-LOC
+
