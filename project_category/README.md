@@ -1,11 +1,17 @@
 ### 常用开源项目
 #### 单分类项目
++ [分类算法大集合] https://github.com/brightmart/text_classification
 + [HAN-text-classification-tf] https://github.com/lc222/HAN-text-classification-tf
 + [TextCNN] https://github.com/DongjunLee/text-cnn-tensorflow
 + [DESlib] https://github.com/Menelau/DESlib
 + [fasttext] https://github.com/facebookresearch/fastText
 + [capsule_text] https://github.com/andyweizhao/capsule_text_classification
 #### 多标签分类
++ [AI Challenger第一名] https://github.com/chenghuige/wenzheng 重点
++ [AI Challenger第十七名] https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis  重点
++ [AI Challenger] https://github.com/xueyouluo/fsauor2018
++ [IARM] https://github.com/SenticNet/IARM
++ [GCAE] https://github.com/wxue004cs/GCAE
 + [SU4MLC] https://github.com/lancopku/SU4MLC
 + [LDA_thesis] https://github.com/KenHBS/LDA_thesis
 + [C2AE-Multilabel-Classification] https://github.com/dhruvramani/C2AE-Multilabel-Classification
@@ -13,7 +19,10 @@
 + [Multi-Label-Text-Classification] https://github.com/RandolphVI/Multi-Label-Text-Classification
 + [SGM] https://github.com/lancopku/SGM
 + [scikit-multilearn] https://github.com/scikit-multilearn/scikit-multilearn
++ [Multi-label-Paper] https://github.com/XSilverBullet/Multi-label-Paper
 #### 阅读理解
++ [PocketFlow] https://github.com/Tencent/PocketFlow
++ [MnemonicReader] https://github.com/HKUST-KnowComp/MnemonicReader
 + [RCPapers] https://github.com/thunlp/RCPapers
 + [QANet] https://github.com/NLPLearn/QANet
 + [R-Net] https://github.com/HKUST-KnowComp/R-Net
@@ -23,6 +32,7 @@
 #### 语义理解
 + [MultiNLI] https://github.com/nyu-mll/multiNLI
 #### 语义匹配
++ [Semantic_Similarity] https://github.com/AaronWuu/Semantic_Similarity
 + [BiMPM] https://github.com/jxz542189/BiMPM
 + [MatchZoo] https://github.com/faneshion/MatchZoo
 + [SeqMatchSeq] https://github.com/shuohangwang/SeqMatchSeq
@@ -37,6 +47,7 @@
 + [GuidedLDA] https://github.com/vi3k6i5/GuidedLDA
 + [bnpy] https://github.com/birlrobotics/bnpy
 #### 问答系统
++ [QA-deep-learning] https://github.com/white127/QA-deep-learning
 + [IRN] https://github.com/zmtkeke/IRN
 + [kbqa] https://github.com/quyingqi/kbqa-ar-smcnn
 + [AnyQ] https://github.com/baidu/AnyQ
@@ -87,6 +98,8 @@
 + [just_another_seq2seq] https://github.com/qhduan/just_another_seq2seq
 + [ConversationalRobotDesign] https://github.com/qhduan/ConversationalRobotDesign
 #### 推荐算法
++ [RecQ] https://github.com/Coder-Yu/RecQ
++ [MoHR] https://github.com/kang205/MoHR
 + [CollaborativeMemoryNetwork] https://github.com/tebesu/CollaborativeMemoryNetwork
 + [RppleNet] https://github.com/hwwang55/RippleNet
 + [citepmatic] https://github.com/allenai/citeomatic
@@ -113,6 +126,7 @@
 + [Probabilistic_Matrix_Factorization] https://github.com/fuhailin/Probabilistic-Matrix-Factorization
 + [论文集合] https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 #### 广告点击率
++ [Tencent2018_Lookalike_Rank7th] https://github.com/guoday/Tencent2018_Lookalike_Rank7th
 + [ad-reading] https://github.com/jyfeather/ad-reading
 + [dnn_ctr] https://github.com/nzc/dnn_ctr
 + [tensorflow_practice] https://github.com/princewen/tensorflow_practice
@@ -135,6 +149,7 @@
 + [TextRank4ZH] https://github.com/letiantian/TextRank4ZH
 + [sumy] https://github.com/miso-belica/sumy
 #### 命名实体识别
++ [BERT-BiLSTM-CRF-NER] https://github.com/macanv/BERT-BiLSTM-CRF-NER
 + [LD_Net] https://github.com/LiyuanLucasLiu/LD-Net
 + [neural_sequence_labeling] https://github.com/IsaacChanghau/neural_sequence_labeling
 + [ChineseNER] https://github.com/buppt/ChineseNER
@@ -142,6 +157,9 @@
 + [HSCRF] https://github.com/ZhixiuYe/HSCRF-pytorch
 + [NCRFpp] https://github.com/jiesutd/NCRFpp
 + [LatticeLSTM] https://github.com/jiesutd/LatticeLSTM
+#### 机器翻译
++ [AIChallenger2018_English_Chinese_Machine_Translation] https://github.com/gzhcv/AIChallenger2018_English_Chinese_Machine_Translation
++ [Document-Transformer] https://github.com/THUNLP-MT/Document-Transformer
 #### 基于方向的情感分析
 + [ABSA] https://github.com/songyouwei/ABSA-PyTorch
 + [RAM] https://github.com/lpq29743/RAM
@@ -150,6 +168,7 @@
 + [MemNet4Sentiment] https://github.com/abhimanu/MemNet4Sentiment
 + [IAN] https://github.com/lpq29743/IAN
 #### 词向量
++ [bilm-tf] https://github.com/allenai/bilm-tf
 + [word2vec] https://github.com/tmikolov/word2vec
 + [finetune-transformer-lm] https://github.com/openai/finetune-transformer-lm
 + [bert] https://github.com/google-research/bert
@@ -165,6 +184,9 @@
 #### 自注意力
 + [BiBloSA] https://github.com/jxz542189/BiBloSA
 + [DiSAN] https://github.com/taoshen58/DiSAN
+#### NLP代码
++ [deepnlp] https://github.com/rockingdingo/deepnlp
++ [NLP_Code_Index] https://github.com/lancopku/NLP_Code_Index
 #### 强化学习
 + [gym] https://github.com/openai/gym
 + [baselines] https://github.com/openai/baselines
@@ -173,6 +195,17 @@
 + [Personae] https://github.com/Ceruleanacg/Personae
 + [DeepRL] https://github.com/ShangtongZhang/DeepRL
 + [reinforcement-learning-an-introduction] https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+#### 中文数据集和资料
++ [Chinese_Corpus] https://github.com/GeneralZh/Chinese_Corpus
++ [chinese_dictionary] https://github.com/guotong1988/chinese_dictionary
++ [Awesome-Chinese-NLP] https://github.com/crownpku/Awesome-Chinese-NLP
++ [ChineseNLPCorPus] https://github.com/liuhuanyong/ChineseNLPCorpus
++ [ChineseNlpCorpus] https://github.com/SophonPlus/ChineseNlpCorpus
++ [Chinese-Literature-NER-RE-Dataset] https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset
+#### 分词工具
++ [ID-CNN-CWS] https://github.com/hankcs/ID-CNN-CWS
++ [pyltp] https://github.com/HIT-SCIR/pyltp
++ [pkuseg-python] https://github.com/lancopku/pkuseg-python
 #### Tensorflow例子
 + [model/research] https://github.com/tensorflow/models/tree/master/research 多GPU实例代码
 + [100-Days-Of-ML-Code] https://github.com/Avik-Jain/100-Days-Of-ML-Code
@@ -199,15 +232,25 @@
 + [blackbox] https://github.com/paulknysh/blackbox
 #### 优秀博客
 + https://alanlee.fun/   datasets和estimator
-+ https://www.jianshu.com/u/c5df9e229a67
++ https://www.jianshu.com/u/c5df9e229a67 推荐系统和强化学习
 + http://www.cnblogs.com/pinard/
++ http://xudongyang.coding.me/  深度学习优化建议 、estimator等高级API学习、推荐系统
 #### LSTM变种
 + [srnn] https://github.com/zepingyu0512/srnn
 + [qrnn] https://github.com/salesforce/pytorch-qrnn
 + [nlstm] https://github.com/hannw/nlstm
+#### tensorflow eager
++ [tensorflow-eager-tutorials] https://github.com/madalinabuzau/tensorflow-eager-tutorials
 #### 语言模型工具
 + [FoolNLTK] https://github.com/rockyzhengwu/FoolNLTK
 + [kenlm] https://github.com/kpu/kenlm
+#### 支持并发部署(ZMQ)
++ [pyzmq] https://github.com/zeromq/pyzmq
++ [pyzmq] https://github.com/ihasn/pyzmq_examples
++ [pyzmq-py3k-examples] https://github.com/minrk/pyzmq-py3k-examples
++ [nanomsg-python] https://github.com/tonysimpson/nanomsg-python
++ [zguide] https://github.com/booksbyus/zguide
++ [python-zeroless] https://github.com/zmqless/python-zeroless
 #### 内存监测
 + [memory_profile] https://github.com/pythonprofilers/memory_profiler
 + [memspector] https://github.com/asciimoo/memspector
@@ -219,6 +262,10 @@
 + [cython_c_extension] https://github.com/aphearin/cython_c_extension_example
 + [cython_tutorial] https://github.com/adrn/cython-tutorial
 + [statically] https://github.com/AlanCristhian/statically
+#### 繁体转简体
++ [zhconv] https://github.com/gumblex/zhconv
+#### 竞赛
++ [汽车行业用户观点主题及情感识别] https://github.com/yilirin/BDCI_Car_2018
 #### skearn转为PMML
 + [sklearn2pmml] https://github.com/jpmml/sklearn2pmml
 #### sklearn包裹pytorch
@@ -235,6 +282,9 @@
 #### 机器学习生命周期开放平台和算法部署
 + [mlflow] https://github.com/mlflow/mlflow
 + [graphpipe] https://github.com/oracle/graphpipe
+#### tensorflow部署
++ [serving] https://github.com/tensorflow/serving
++ [simple_tensorflow_serving] https://github.com/tobegit3hub/simple_tensorflow_serving
 #### Tensorflow封装库
 + [sonnet] https://github.com/deepmind/sonnet
 #### Tensorflow模型分析工具
