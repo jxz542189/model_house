@@ -7,9 +7,9 @@
 + [fasttext] https://github.com/facebookresearch/fastText
 + [capsule_text] https://github.com/andyweizhao/capsule_text_classification
 #### 多标签分类
-+ [AI Challenger第一名] https://github.com/chenghuige/wenzheng 重点
-+ [AI Challenger第十七名] https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis  重点
-+ [AI Challenger] https://github.com/xueyouluo/fsauor2018
++ [AI Challenger第一名] https://github.com/chenghuige/wenzheng 重点 https://mp.weixin.qq.com/s/J6jPxIToPJsA7aSb7wzIuQ https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
++ [AI Challenger第十七名] https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis  重点   分类不平衡权重  额外特征  模型集成
++ [AI Challenger] https://github.com/xueyouluo/fsauor2018  改造的ELMO编码
 + [IARM] https://github.com/SenticNet/IARM
 + [GCAE] https://github.com/wxue004cs/GCAE
 + [SU4MLC] https://github.com/lancopku/SU4MLC
